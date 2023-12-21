@@ -1,4 +1,4 @@
-# Deploying a machine learning mdodel on Render using Flask
+# Deploying a machine learning model on Render using Flask
 
 # Project topics: 
     - Project set up using GitHub 
